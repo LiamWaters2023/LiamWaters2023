@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LiamWaters2023
+- This project is shared within my resume for recruiters / potential employers.
+- The program automates the arbitrage between an ETF (listed on two different exchanges and currencies, CAD & USD) and the underlying stocks(denominated in CAD);
+- In addition it trades private tender offers while controlling for volatility and market risks.
+- Part of the competition involved manually using the client to control liquidity risk via the usage of ETF creation / redemption.
+- I've integrated decision making and prompts within the code so I could efficiently (and profitably) control for liquidity risk.
